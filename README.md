@@ -19,8 +19,7 @@ You can find the queries [here](https://github.com/Junaid2810/Udacity-Project-pr
 
 ### Question Sets
 
-A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. These were solely provided for our convenience, and we were able to choose between any of the questions in these sets or none at all in your project submission.Despite having not used any of the questions provided by Udacity, I still chose to query each [question](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/tree/master/1st-project/set-questions).
-
+A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. These were solely provided for our convenience, and we were able to choose between any of the questions in these sets or none at all in your project submission.Despite having not used any of the questions provided by Udacity.
 
 ## Project 2
 
