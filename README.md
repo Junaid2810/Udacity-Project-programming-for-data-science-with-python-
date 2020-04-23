@@ -1,6 +1,6 @@
-# programming-for-data-science
+# Programming For Data Science With Python
 
-## Henrique de Carvalho
+## Junaid Salahuddin
 
 This repository contains projects for Udacity Programming For Data Science.
 
@@ -14,8 +14,8 @@ For the presentation component, the student had to create four slides, and each 
 
 ### Project Submission
 
-[Project Submission](https://drive.google.com/open?id=1sfcOviwrgdNjnhghi6N4IOobMzDNGz4w).
-You can find the queries [here](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/blob/master/1st-project).
+[Project Submission](https://drive.google.com/file/d/1xWcnSGFBu30PltvbMzAJ8f8UD9tHcyZn/view?usp=sharing).
+You can find the queries [here](https://github.com/Junaid2810/Udacity-Project-programming-for-data-science-with-python-/blob/master/Project-1.zip).
 
 ### Question Sets
 
@@ -32,7 +32,7 @@ In this project, the student had to make use of Python to explore data related t
 
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-[Project Submission](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/blob/master/2nd-project/bikeshare.py).
+[Project Submission](https://github.com/Junaid2810/Udacity-Project-programming-for-data-science-with-python-/blob/master/Project-2.zip).
 
 #### Files Used
 
@@ -42,7 +42,6 @@ The required files for running this program are:
 * new_york_city.csv
 * chicago.csv
 
-You can download the files [here](https://drive.google.com/open?id=1sfcOviwrgdNjnhghi6N4IOobMzDNGz4w).
 
 #### Requirements
 
@@ -60,7 +59,6 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Project Submission](https://drive.google.com/open?id=10ZndqTVL3iDHoGx2lP8Rr7BmOK8noDh-).
+[Project Submission](https://drive.google.com/file/d/1P6SwPsClIi-dkjxufKYvOVodQT38tnea/view?usp=sharing).
 
 
-![Imgur](https://imgur.com/IK0uC6D.jpg)
