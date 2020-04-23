@@ -1,28 +1,10 @@
-# programming-for-data-science
+# programming-for-data-sciencewith-python
 
-## Henrique de Carvalho
+## Junaid Salahuddin
 
-This repository contains projects for Udacity Programming For Data Science.
+This repository contains projects for Udacity Programming For Data Science with python.
 
-## Project 1
-
-### Overview
-
-This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
-
-For the presentation component, the student had to create four slides, and each should have (a) a question of interest, (b) a supporting SQL query needed to answer the question, (c) a supporting visualization created using the final data of the SQL queries that answer the questions of interest, and (d) a small summary on each slide.
-
-### Project Submission
-
-[Project Submission](https://drive.google.com/open?id=1sfcOviwrgdNjnhghi6N4IOobMzDNGz4w).
-You can find the queries [here](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/blob/master/1st-project).
-
-### Question Sets
-
-A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. These were solely provided for our convenience, and we were able to choose between any of the questions in these sets or none at all in your project submission.Despite having not used any of the questions provided by Udacity, I still chose to query each [question](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/tree/master/1st-project/set-questions).
-
-
-## Project 2
+## Explore US Bikeshare Data
 
 ### Overview
 
@@ -63,4 +45,4 @@ The Project Submission consisted in the filling of a template with all the Git c
 [Project Submission](https://drive.google.com/open?id=10ZndqTVL3iDHoGx2lP8Rr7BmOK8noDh-).
 
 
-![Imgur](https://imgur.com/IK0uC6D.jpg)
+
