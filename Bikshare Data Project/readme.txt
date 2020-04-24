@@ -1,4 +1,4 @@
-Project Name - Explore US Bikeshare Data
+Project Name - Explore US Bikeshare Data Udacity Project
 Programming for Data science with python
 Junaid Salahuddin
 
