@@ -8,7 +8,8 @@ CITY_DATA = { 'chicago': '.\data\chicago.csv',
               'washington': '.\data\washington.csv' }
 
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
-weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 
+
+Weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 
 	    def choice(prompt, choices=('y', 'n')):
 	    """Return a valid input from the user given an array of possible answers.++ Args:
 	    + (str) prompt - prompt with input request
@@ -36,7 +37,8 @@ def get_filter_city():
     # build and display the list of cities for which we have datasets
     cities_list = []
     num_cities = 0
-
+    
+    #Add print statement regarding Washington's lack of user data	    
     for a_city in CITY_DATA:
         cities_list.append(a_city)
         num_cities += 1
@@ -322,7 +324,7 @@ def seconds_to_HMS_str(total_seconds):
 
     return day_hour_str
 
-
+#Exception to trip duration statistics
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
