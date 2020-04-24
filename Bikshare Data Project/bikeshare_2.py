@@ -322,7 +322,7 @@ def seconds_to_HMS_str(total_seconds):
 
     return day_hour_str
 
-
+#Exception to trip duration statistics
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
